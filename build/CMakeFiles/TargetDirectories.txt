@@ -1,0 +1,5 @@
+/home/book/726linux-server/726linux-server/build/CMakeFiles/rebuild_cache.dir
+/home/book/726linux-server/726linux-server/build/CMakeFiles/edit_cache.dir
+/home/book/726linux-server/726linux-server/build/src/CMakeFiles/rebuild_cache.dir
+/home/book/726linux-server/726linux-server/build/src/CMakeFiles/main.dir
+/home/book/726linux-server/726linux-server/build/src/CMakeFiles/edit_cache.dir

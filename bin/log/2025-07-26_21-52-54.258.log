@@ -1,0 +1,5 @@
+/home/book/726linux-server/726linux-server/src/main.cpp(45):[INFO][2025-07-26_21-52-54.359]<17448--1719969792>(LogTest) here is log 10 A 1.000000 2 hello edoyun! 冯老师 哈哈 嘻嘻 易道云
+/home/book/726linux-server/726linux-server/src/main.cpp(46):[DEBUG][2025-07-26_21-52-54.359]<17448--1719969792>(LogTest)
+68 65 6C 6C 6F 20 65 64 6F 79 75 6E 21 20 E5 86 	; hello edoyun! �
+AF E8 80 81 E5 B8 88 00                         	; .........
+/home/book/726linux-server/726linux-server/src/main.cpp(47):[ERROR][2025-07-26_21-52-54.359]<17448--1719969792>(LogTest) 100 S 0.12345 1.23457 hello edoyun! 冯老师 易道云编程
